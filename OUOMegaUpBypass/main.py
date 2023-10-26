@@ -1,5 +1,5 @@
-from MegaUpBypass.deobfuscate import deobuscate
-from OUOBypass.ouo_bypass import ouo_bypass
+from ..MegaUpBypass.deobfuscate import deobuscate
+from ..OUOBypass.ouo_bypass import ouo_bypass
 
 from re import search
 
