@@ -1,3 +1,2 @@
 # OUOMegaUpBypass
-
-**TODO**
+OUOMegaUpBypass contains the main bypass script used to bypass **[megaup.net](https://megaup.net)**, **[ouo.io](https://ouo.io)**, and **[ouo.press](https://ouo.press)** and return a copy-pastable link to download the corresponding file

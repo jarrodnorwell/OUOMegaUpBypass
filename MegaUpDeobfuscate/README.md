@@ -1,3 +1,2 @@
 # MegaUpDeobfuscate
-
-**TODO**
+MegaUpDeobfuscate contains the deobfuscated version of the previously used obfuscated code used on **[megaup.net](https://megaup.net)** to deobfuscate obfuscated download links (phew)

@@ -1,3 +1,2 @@
 # OUOBypass
-
-**TODO**
+OUOBypass contains a local version of **[ouo-bypass](https://github.com/xcscxr/ouo-bypass)** script which is used to bypass the initial **[ouo.io](https://ouo.io)** and **[ouo.press](https://ouo.press)** links

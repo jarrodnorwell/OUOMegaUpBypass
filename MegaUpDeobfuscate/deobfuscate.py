@@ -1,4 +1,4 @@
-# de-obfuscated and modified version of the de-obfuscator code from https://megaup.net
+# (OLD, OUTDATED) deobfuscated and modified version of the previously used deobfuscator code from https://megaup.net
 
 deobuscate = """
 function deobfuscate(d1, d2, FileName, FileSize) {
